@@ -66,7 +66,7 @@ Some XML files may contain **missing elements, malformed structures, or unexpect
 ---
 
 ### 4. Time Limit
-- **48 hours** (2 days) to complete the task and submit your work.  
+- **24 hours** (1 days) to complete the task and submit your work.  
 - This deadline ensures you have **enough time** to plan, code, debug, and document your solution.
 
 ---
