@@ -27,8 +27,8 @@ This project parses XML order files, extracts key fields, converts them to JSON 
 - Implements a retry mechanism for parsing errors.
 - Includes unit tests using `unittest`.
 
-## Setup
-1. **Clone the repository:**
+ Setup
+1. Clone the repository:
    ```bash
    git clone https://github.com/username/H2N_Project.git
    cd  H2N_Project
