@@ -19,14 +19,6 @@ Create or edit your README.md file to include the following information:
 
 This project parses XML order files, extracts key fields, converts them to JSON format, and logs the process. It also handles errors and stores data in an SQLite database.
 
-## Table of Contents
-- [Features](#features)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Error Handling](#error-handling)
-- [Resources](#resources)
-- [Evaluation Criteria](#evaluation-criteria)
-
 ## Features
 - Converts XML order files to JSON.
 - Handles missing elements and malformed XML.
