@@ -1,0 +1,10 @@
+INFO:root:2024-10-18 09:26 - Processed order_001.xml successfully.
+INFO:root:2024-10-18 09:26 - Processed order_007.xml successfully.
+INFO:root:2024-10-18 09:26 - Processed order_006.xml successfully.
+INFO:root:2024-10-18 09:26 - Skipped order_008.xml - 'NoneType' object has no attribute 'text'
+INFO:root:2024-10-18 09:26 - Processed order_003.xml successfully.
+INFO:root:2024-10-18 09:26 - Parsing error in order_009.xml - Unclosed tag.
+INFO:root:2024-10-18 09:26 - Processed order_004.xml successfully.
+INFO:root:2024-10-18 09:26 - Processed order_010.xml successfully.
+INFO:root:2024-10-18 09:26 - Processed order_002.xml successfully.
+INFO:root:2024-10-18 09:26 - Processed order_005.xml successfully.
